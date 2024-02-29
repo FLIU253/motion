@@ -11,3 +11,4 @@
 - Used external libraries to handle throttling since it would be faster
 - I decided to create a generic apiWrapper because in the future there may be other third party APIs that need throttling as well
 - I used a typescript boiler template so I did not have to set it up from scratch
+- Given more time, I would also set up a docker container for this project as well
